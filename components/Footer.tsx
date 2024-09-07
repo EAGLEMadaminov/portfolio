@@ -46,7 +46,7 @@ const Footer = () => {
           <div className="flex items-center mt-[1rem] space-x-1">
             <MapIcon className="w-[1rem] h-[1rem] text-yellow-300" />
             <p className="text-[17px] text-white opacity-75 font-normal">
-              Tashkent, Mirzo Ulug'bek
+              Tashkent, Mirzo Ulug&apos;bek
             </p>
           </div>
           <div className="flex items-center mt-[1rem] space-x-1">
